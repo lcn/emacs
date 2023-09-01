@@ -1,0 +1,52 @@
+* Van alles :elfeed:
+**   https://updates.orgmode.org/feed/changes
+**   http://cachestocaches.com/feed
+**   https://www.ploetzblog.de/feed/                                 :bread:
+**   https://www.kernel.org/feeds/kdist.xml
+**   https://takeonrules.com/index.xml
+**   https://fabiensanglard.net/rss.xml
+**   https://knowablemagazine.us10.list-manage.com/track/click?u=00f3581333eb1d5166b3eff6c&id=9620c676f7&e=ec1ebb6ba0
+**   https://sachachua.com/blog/feed
+**   https://christiantietze.de/feed.atom
+**   https://www.youtube.com/channel/UCsPWwS5LypSNEDqrKqyGjnw
+**   https://www.youtube.com/@DanielMaude                             :golf:
+**   https://www.youtube.com/watch?v=TdXdONsxrpQ
+**   https://www.youneedfeeds.com/s/Books-Bundle.xml
+**   https://rosenzweig.io/feed.xml
+**   https://www.reddit.com/r/LinuxOverdose/.rss
+**   https://www.linuxshelltips.com/feed/
+**   https://www.snellman.net/blog/rss-networking.xml
+**   https://frontpagelinux.com/feed/
+**   https://www.reddit.com/r/i3wm/.rss                                 :WM:
+**   https://blog.emacsen.net/atom.xml                               :emacs:
+**   https://distrowatch.com/news/dww.xml
+**   https://askmeaboutlinux.com/feed/
+**   https://www.2daygeek.com/feed/
+**   https://linuxactionnews.com/rss
+**   https://latenightlinux.com/feed/extra
+**   https://podcasts.files.bbci.co.uk/b036f7w2.rss
+**   https://www.androidplanet.nl/feed/                            :android:
+**   http://feeds.arstechnica.com/arstechnica/index
+**   https://www.makeuseof.com/feed/category/smart-home/
+**   https://www.makeuseof.com/feed/category/technology-explained/
+**   https://www.makeuseof.com/feed/tag/longform-guide/
+**   https://www.makeuseof.com/feed/tag/python/
+**   https://www.makeuseof.com/feed/category/linux/
+**   https://www.engadget.com/rss.xml
+**   https://lifehacker.com/rss
+**   http://feeds.feedburner.com/brainpickings/rss
+**   http://feeds.wired.com/wired/index
+**   http://www.nytimes.com/services/xml/rss/nyt/Books.xml
+**   http://feeds.feedburner.com/TheDigitalReader
+**   http://www.theverge.com/rss/index.xml
+**   https://www.reddit.com/r/rss/rss
+**   https://news.ycombinator.com/rss
+**   https://feeds.leonid.codes/hacker_news.rss
+**   https://rsshub.app/apnews/topics/technology
+**   https://research.cornell.edu/rss/feed/all/Mathematical%20&%20Computer%20Sciences
+**   https://research.cornell.edu/rss/feed/all/Information%20Science
+**   https://planet.emacslife.com/atom.xml                           :emacs:
+**   https://www.reddit.com/r/orgmode.rss                    :orgmode:emacs:
+**   https://www.reddit.com/r/dwm.rss :tilingwm:
+**   https://www.reddit.com/r/i3wm.rss :tilingwm:
+**   https://www.reddit.com/r/emacs.rss                              :emacs:   
